@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Route,Routes } from 'react-router-dom'
 import Sender from './pages/Sender'
 import Home from './pages/Home'
